@@ -1,0 +1,8 @@
+{
+  "parsers_metadata": [
+    {
+      "entity_identifier": "beverage_type",
+      "entity_parser": "parser_1"
+    }
+  ]
+}
